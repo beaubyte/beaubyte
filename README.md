@@ -8,6 +8,7 @@ I am a Cybersecurity Student at UW-Stout, currently on my 3rd year at the univer
 - Java and JavaFX
 - Python Scripting
 - LAMP (with Ubuntu, Apache, Postgres, and PHP)
+- Svelte with TypeScript
 
 ---
 
